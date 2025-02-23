@@ -20,3 +20,8 @@ Zgrab2: https://github.com/zmap/zgrab2
 Zgrab2 example configs: https://github.com/StefanGrimminck/zgrab2-configurations  
 BGP View: https://bgpview.io/ 
 
+## Workshop
+
+For the Day 2 workshop, the setup instructions and resources you need are all here:
+
+https://github.com/nixintel/osintsummitworkshop2025
